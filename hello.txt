@@ -1,1 +1,1 @@
-Hello GitHubgit remote -v!
+Hello GitHubgit remote -v
